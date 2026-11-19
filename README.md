@@ -1,4 +1,5 @@
 # 燕雲十六聲序號兌換助手 v1.9
+<img width="1780" height="915" alt="image" src="https://github.com/user-attachments/assets/97c90729-cfcb-4e3f-9fa9-9d202cc20814" />
 
 雙擊 **Start.cmd** 啟動。不需安裝 Python 或其他套件。啟動器會比對遊戲與工具的權限；需要管理員權限時，請自行完成 Windows 管理員確認。
 
