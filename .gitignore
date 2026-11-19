@@ -1,0 +1,7 @@
+data/
+*.exe
+*.pdb
+*-preview.png
+native-test-result.txt
+.vs/
+.vscode/
